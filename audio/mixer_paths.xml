@@ -2046,9 +2046,9 @@
         <!--100 % of 20 register: 0x1B4-->
         <ctl name="HPHR Volume" value="20" />
         <!--68 % of 124 (rounded) register: 0x2B7-->
-        <ctl name="RX1 Digital Volume" value="76" />
+        <ctl name="RX1 Digital Volume" value="84" />
         <!--68 % of 124 (rounded) register: 0x2BF-->
-        <ctl name="RX2 Digital Volume" value="76" />
+        <ctl name="RX2 Digital Volume" value="84" />
     </path>
 
     <path name="headphones-regulation">
@@ -2065,9 +2065,9 @@
         <!--100 % of 20 register: 0x1B4-->
         <ctl name="HPHR Volume" value="20" />
         <!--60 % of 124 (rounded) register: 0x2B7-->
-        <ctl name="RX1 Digital Volume" value="76" />
+        <ctl name="RX1 Digital Volume" value="84" />
         <!--60 % of 124 (rounded) register: 0x2BF-->
-        <ctl name="RX2 Digital Volume" value="76" />
+        <ctl name="RX2 Digital Volume" value="84" />
     </path>
 
     <path name="headphones-hi-res">
