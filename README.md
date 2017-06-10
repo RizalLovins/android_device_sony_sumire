@@ -21,4 +21,4 @@ Rear Camera  | 23 MP, LED flash
 Front Camera | 5.1 MP
 Release Date | October 2015
 
-![Sony Xperia Z5](http://cdn2.gsmarena.com/vv/pics/sony/sony-z5-4.jpg "Sony Xperia Z5")
+![Sony Xperia Z5](http://www.moviltelan.com/tienda/images/fotos/sonyxperiaz5.jpg "Sony Xperia Z5")
